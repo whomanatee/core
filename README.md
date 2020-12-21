@@ -1,4 +1,4 @@
-# whomanatee
+# whomanatee.github.io
 
 This repo is used for:
 1) planning
